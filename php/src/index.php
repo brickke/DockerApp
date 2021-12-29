@@ -1,5 +1,15 @@
-<?PHP
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Docker App</title>
+</head>
 
-	$arr =array('id'=> 1001, 'name'=>'Ann');
-	print_r($arr);
-?>
+<body>
+	<h1>Welcome to Docker!</h1>
+	<?PHP
+		echo "Php";
+	?>
+</body>
+</html>
+
+
